@@ -1,5 +1,5 @@
 # JPGtoPNGConverter
-Convert images from JPG to PNG by terminal
+Convert all images in a folder from .JPG to .PNG using the terminal.
 
 # How it works
 Perform these steps
