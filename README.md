@@ -2,12 +2,12 @@
 Convert images from JPG to PNG by terminal
 
 # How it works
-You simply run this code from terminal
+Perform these steps
 ```
 Fork this repo
 Clone this repo
 cd jpgtopngconverter
-python jpgtopngconverter.py <name_old_folder> <name_new_folder>
+python jpgtopngconverter.py <name_old_folder=where the jpg img are> <name_new_folder=where do you want new png img>
 ```
 # What did I learn?
 I learned:
