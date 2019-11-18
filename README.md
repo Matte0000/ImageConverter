@@ -2,7 +2,7 @@
 Converts the format of a folder of images using terminal.
 
 # How it works
-Perform these steps
+Perform these steps:
 ```
 Fork this repo
 Clone this repo
