@@ -7,6 +7,9 @@ old_format = sys.argv[2]
 new_folder = sys.argv[3]
 new_format = sys.argv[4]
 
+if not os.path.exists(old_folder):
+	raise FileNotFoundError('old folder not found')
+
 if not os.path.exists(new_folder):
 	try:
    		os.mkdir(new_folder)
