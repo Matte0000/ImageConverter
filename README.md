@@ -13,6 +13,7 @@ On terminal run this command:
 ```
 python imageconverter.py <name_old_folder=where were the old imgs> <name_new_folder=where do you want new imgs> <format_you_want>
 ```
+
 # What did I learn?
 I learned:
 1. How to use sys module
