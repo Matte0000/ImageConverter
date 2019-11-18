@@ -1,5 +1,5 @@
 # ImageConverter
-Converts the format of a folder of images using termianl.
+Converts the format of a folder of images using terminal.
 
 # How it works
 Perform these steps
