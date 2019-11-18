@@ -11,7 +11,7 @@ put the images you want to change the format into a folder E.G. <name_old_folder
 ```
 On terminal run this command:
 ```
-python imageconverter.py <name_old_folder=where were the old imgs> <format_old_photo> <name_new_folder=where do you want new imgs> <format_you_want>
+python imageconverter.py <name_old_folder=where were the old imgs> <name_new_folder=where do you want new imgs> <format_you_want>
 ```
 # What did I learn?
 I learned:
