@@ -19,4 +19,4 @@ I learned:
 2. How to use os module
 3. How to use PIL
 4. How to modified images with PIL
-5. How to raise a error
+5. How to raise an error
