@@ -1,4 +1,4 @@
-# JPGtoPNGConverter
+# ImageConverter
 Converts the format of a folder of images using termianl.
 
 # How it works
